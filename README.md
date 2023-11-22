@@ -12,11 +12,11 @@
  
  🔭 Atualmente estou estudando **Desenvolvimento Web no curso open source: The Odin Project**
  
- 🌱 Atualmente estou aprendendo **a stack Mern (MongoDB, Express, React, NodeJs**
+ 🌱 Atualmente estou aprendendo **a stack Mern (MongoDB, Express, React, NodeJs)**
 
 💬 Me faça perguntas sobre tecnologias (ou qualquer coisa) [aqui](https://github.com/jorgenettodev/jorgenettodev/issues)**
 
-⚡ Fun fact **Sou viciado em ferramentas de produtividade, como o Pomodoro 🍅**
+⚡ Fun fact: **Sou viciado em ferramentas de produtividade, como o Pomodoro 🍅**
 
  </div>
  
@@ -34,20 +34,20 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Linguagens de programação-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,mongodb,java,django" /><br>
 </div>
 
 <br/>
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>🐍 Minhas contribuições 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/jorgenettodev/jorgenettodev/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
